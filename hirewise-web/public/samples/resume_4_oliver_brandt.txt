@@ -1,0 +1,16 @@
+Oliver Brandt
+oliver.brandt@example.com
++1 206 555 0109
+Seattle, WA
+
+Backend engineer who moved onto a data platform team; no Airflow or dbt shown.
+
+SKILLS: Python, Java, SQL, Spark, Kubernetes, AWS
+
+EXPERIENCE
+Software Engineer (Data Platform) - Pinecrest Software (2018-Present)
+  * Spark batch jobs on EMR
+  * Built internal ingestion service in Java
+
+EDUCATION
+MS Computer Science, Cascade Tech 2018

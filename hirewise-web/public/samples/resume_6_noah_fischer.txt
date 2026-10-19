@@ -1,0 +1,15 @@
+Noah Fischer
+noah.fischer@example.com
+
+Pune, India
+
+Early-career analyst.
+
+SKILLS: SQL, Excel, Python (coursework), Tableau
+
+EXPERIENCE
+Junior Data Analyst - Orbit Consulting (2023-Present)
+  * Weekly dashboards in Tableau
+
+EDUCATION
+BTech Information Technology, Western Institute of Technology 2023

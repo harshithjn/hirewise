@@ -1,0 +1,6 @@
+LUCA MORETTI   tel 555.0133
+~~ about me ~~
+data guy. 6ish yrs?? startups mostly. did ETL + dashboards, some spark (i think v2) maybe airflow once
+SKILLS: python / sql / spark? / etl / "pipelines"
+exp: various startups 2017-now (freelance gaps) - did data stuff
+edu: -- see linkedin --

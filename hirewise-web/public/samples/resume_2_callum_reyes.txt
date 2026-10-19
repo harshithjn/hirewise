@@ -1,0 +1,20 @@
+Callum Reyes
+callum.reyes@example.com
++1 312 555 0177
+Chicago, IL
+
+Analytics engineering lead; warehouse-centric (Snowflake) with no Spark experience stated.
+
+SKILLS: Python, SQL, Airflow, dbt, Snowflake, Data modeling, Kafka, Terraform
+
+EXPERIENCE
+Lead Analytics Engineer - Harbor Logistics (2020-Present)
+  * Designed a dimensional warehouse in Snowflake
+  * Runs 200+ dbt models with CI tests
+  * Manages 2 analytics engineers
+Data Engineer - Quill Media (2017-2020)
+  * Airflow pipelines in Python
+  * Kafka consumers for clickstream
+
+EDUCATION
+BS Statistics, Lakeshore University 2017
